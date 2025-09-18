@@ -1,0 +1,44 @@
+# Ignore build outputs
+*.out
+*.o
+*.so
+*.a
+
+# Ignore simulation output files
+*.vcd
+*.fst
+*.wlf
+*.asdb
+*.log
+
+# Ignore waveform and dump files
+*.ucdb
+*.simvision
+*.jou
+*.ncf
+*.ngc
+*.ngd
+*.syr
+*.xpi
+*.xrpt
+
+# Ignore temporary files
+*.tmp
+*.swp
+*~
+*.bak
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore IDE/project files
+.vscode/
+.idea/
+*.class
+*.project
+*.settings/
+*.launch
+
+
+
